@@ -1,7 +1,5 @@
-This project will include all the features that I learnt in the HTML lessons.
+This personal project is part of the Odin project exercises
 
-Namely:
-- Heading, paras etc
-- Bold, Italics etc
+The goal of this project is to create a website for recipes
 
-Plus other stuff
+

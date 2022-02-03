@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    background-color: yellow;
+}
+
+.biryani{
+
+    height: auto;
+    width: 300px;
+
+    position: relative;
+    left: 40%;
+}
+
+.description{
+    background-color: greenyellow;
+}
+
+
+.recipe{
+    background-color: violet;
+}

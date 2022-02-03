@@ -1,0 +1,49 @@
+h1{
+    text-align: center;
+    background-color: yellow;
+}
+
+.biryani,.karahi{
+    height: 300px;
+    width: 300px;
+}
+
+.biryani{
+    position: relative;
+    left: 20%;
+}
+
+.karahi{
+    position: relative;
+    left: 35%;
+    
+}
+
+.b-button,.k-button{
+
+    height: 100px;
+    width: 200px;
+    font-size: 24px;
+    background-color: orange;
+    color: whitesmoke;
+}
+
+.b-button{
+    position: relative;
+    left:23%;
+
+}
+
+.k-button{
+    position: relative;
+    left: 46%;
+}
+
+.odin{
+    height: auto;
+    width: 500px;
+    
+    position: relative;
+    left: 30%;
+    
+}
